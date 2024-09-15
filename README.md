@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gangappagarikuruvaravitejaURK23CS7142
+- 👋 Hi, I’m @gangappagarikuruvaraviteja
 - 👀 I’m interested in codeing (pyton,java etc.)
 - 🌱 I’m currently learning pyton.
 - 💞️ I’m looking to collaborate on work 
